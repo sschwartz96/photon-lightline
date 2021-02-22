@@ -1,0 +1,14 @@
+name: 'photon_lightline'
+version: '1.0.0'
+license: 'MIT'
+author: 'sschwartz96'
+url: ''
+description: ''
+colorschemes:
+  - name: photon_lightline
+    background: 'dark'
+    palette: photon_lightline
+lightline:
+  - name: photon_lightline
+    palette: photon_lightline
+    style: photon_lightline
